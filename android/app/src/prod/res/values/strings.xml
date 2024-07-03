@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_api_key">
+        "api_key_prod"
+    </string>
+    <string name="app_name">Flavor Prod</string>
+</resources>
